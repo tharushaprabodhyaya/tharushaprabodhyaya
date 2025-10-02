@@ -1,4 +1,4 @@
-# 👋 Hi — I'm Tharusha Prabodhyaya
+# 👋 Hi - I'm Tharusha Prabodhyaya
 
 **Software Engineer & Tech Enthusiast • Sri Lanka**
 
@@ -10,7 +10,7 @@
 ## 🌱 About Me
 
 * 🎓 Pearson BTEC HND in Computing (Software Engineering)
-* 💼 Founder — Skylence Solutions
+* 💼 Co-Founder - [Skylence Solutions](https://skylencesolutions.com)
 * 🔭 Currently focused on real-time communications, video calls and chat systems
 * 🔎 Exploring **UI/UX Design**, **Web Development**, and related technologies
 
@@ -26,13 +26,13 @@
 
 ## 🌍 Connect with me
 
-* Email: [tharusha@example.com](mailto:tharusha@example.com)
-* WhatsApp: [https://wa.me/947XXXXXXXX](https://wa.me/947XXXXXXXX)
-* LinkedIn: [https://www.linkedin.com/in/tharushaprabodhyaya](https://www.linkedin.com/in/tharushaprabodhyaya)
-* X: [https://x.com/tharushaprabodhyaya](https://x.com/tharushaprabodhyaya)
-* Facebook: [https://facebook.com/tharushaprabodhyaya](https://facebook.com/tharushaprabodhyaya)
-* Behance: [https://behance.net/tharushaprabodhyaya](https://behance.net/tharushaprabodhyaya)
-* YouTube: [https://www.youtube.com/@TPTECHBRO](https://www.youtube.com/@TPTECHBRO)
+<img align = "left" src="https://img.icons8.com/?size=100&id=OumT4lIcOllS&format=png&color=000000" alt="Email" width="20" height="20"/> <p>• Email: [tharushaprabodhyaya@gmail.com](mailto:tharushaprabodhyaya@gmail.com)</p>
+<img align = "left" src="https://img.icons8.com/color/48/000000/whatsapp.png" alt="WhatsApp" width="20" height="20"/> <p>• WhatsApp: [+94761934658](https://wa.me/+94761934658)</p>
+<img align = "left" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="Linkedin" width="20" height="20"/> <p>• LinkedIn: [/tharushaprabodhyaya](https://www.linkedin.com/in/tharushaprabodhyaya)</p>
+<img align = "left" src="https://img.icons8.com/?size=100&id=13963&format=png&color=000000" alt="X" width="20" height="20"/> <p>• X: [/tharushaprabodhyaya](https://x.com/tharushaprabodhyaya)</p>
+<img align = "left" src="https://img.icons8.com/?size=100&id=uLWV5A9vXIPu&format=png&color=000000" alt="Facebook" width="20" height="20"/><p>• Facebook: [/tharushaprabodhyaya](https://facebook.com/tharushaprabodhyaya)</p>
+<img align = "left" src="https://img.icons8.com/?size=100&id=13655&format=png&color=000000" alt="Behance" width="20" height="20"/><p>• Behance: [/tharushaprabodhyaya](https://behance.net/tharushaprabodhyaya)</p>
+<img align = "left" src="https://img.icons8.com/?size=100&id=19318&format=png&color=000000" alt="YouTube" width="20" height="20"/><p>• YouTube: [/@TPTECHBRO](https://www.youtube.com/@TPTECHBRO)</p>
 
 ---
 
