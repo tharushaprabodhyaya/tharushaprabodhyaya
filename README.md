@@ -1,6 +1,6 @@
 # 👋 Hi - I'm Tharusha Prabodhyaya
 
-<img align = "left" src="https://img.icons8.com/?size=100&id=qBcBy6Kvv674&format=png&color=000000" alt="Email" width="25" height="25"/> **Software Engineer & Tech Enthusiast <img src="https://img.icons8.com/?size=100&id=60252&format=png&color=000000" alt="Email" width="25" height="25"/>• Sri Lanka** <br>
+<img align = "left" src="https://img.icons8.com/?size=100&id=qBcBy6Kvv674&format=png&color=000000" alt="Email" width="25" height="25"/> **Software Engineer & Tech Enthusiast • Sri Lanka** <img src="https://img.icons8.com/?size=100&id=60252&format=png&color=000000" alt="Email" width="25" height="25"/> <br>
 **Currently:** Building a **Real-Time Chatting & Video Calls Platform** <br>
 **Also working on:** Side projects, and content creator of **TP TECH BRO** (YouTube)
 
